@@ -1,0 +1,12 @@
+.admin-menu,
+.admin-content {
+  min-height: calc(100vh - var(--header-height) - var(--footer-height));
+}
+
+.admin-menu {
+  height: 100%;
+}
+
+.admin-content {
+  padding: 16px 24px 0 0;
+}
