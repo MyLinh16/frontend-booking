@@ -1,0 +1,9 @@
+.tour-detail-header {
+  text-align: center;
+  padding-top: 12px;
+}
+
+.tour-detail-header h1 {
+  flex: 1;
+  padding-right: 16px;
+}
