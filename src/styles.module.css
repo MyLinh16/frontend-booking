@@ -1,0 +1,13 @@
+.layout__header {
+  height: fit-content;
+  line-height: unset;
+}
+
+.layout__content {
+  min-height: calc(100vh - var(--header-height) - var(--footer-height));
+  overflow: hidden auto;
+}
+
+.layout__footer {
+  color: #fff !important;
+}
